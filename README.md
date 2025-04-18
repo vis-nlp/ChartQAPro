@@ -5,6 +5,8 @@
 ![question_types_crop_3-1](https://github.com/user-attachments/assets/30449812-1efd-4947-ac44-80b52485a1db)
 ![Screenshot 2025-04-17 205316](https://github.com/user-attachments/assets/8d54da53-48bc-429b-ae6a-9116e7f42838)
 
+# Dataset 
+You can find our dataset on huggingface: 🤗[ChartQAPro Dataset](https://huggingface.co/datasets/ahmed-masry/ChartQAPro)
 # Evaluation Results
 ![Screenshot 2025-04-17 205443](https://github.com/user-attachments/assets/f8c8c71f-a1a7-48bf-b25a-adfc63902a68)
 

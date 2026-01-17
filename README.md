@@ -13,7 +13,12 @@ You can find our dataset on huggingface: 🤗[ChartQAPro Dataset](https://huggin
 
 ## ✅ Evaluation Instructions
 
-To evaluate your model on **ChartQAPro**, follow the steps below:
+> **ChartQAPro is supported in VLMEvalKit**, the standard evaluation toolkit for Vision–Language Models.  
+> We strongly recommend using VLMEvalKit for consistent and reproducible evaluation.  
+> 🔗 https://github.com/open-compass/VLMEvalKit
+
+
+To evaluate your model on **ChartQAPro** using our repo codebase (NOT RECOMMENDED), follow the steps below:
 
 ### 1. Format Your Predictions
 

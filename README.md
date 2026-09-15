@@ -62,13 +62,29 @@ If you have any questions about this work, please contact **[Ahmed Masry](https:
 # 📚 Citation
 If you use ChartQAPro in your research, please cite:
 ```
-@misc{masry2025chartqaprodiversechallengingbenchmark,
-      title={ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering}, 
-      author={Ahmed Masry and Mohammed Saidul Islam and Mahir Ahmed and Aayush Bajaj and Firoz Kabir and Aaryaman Kartha and Md Tahmid Rahman Laskar and Mizanur Rahman and Shadikur Rahman and Mehrad Shahmohammadi and Megh Thakkar and Md Rizwan Parvez and Enamul Hoque and Shafiq Joty},
-      year={2025},
-      eprint={2504.05506},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2504.05506}, 
+@inproceedings{masry-etal-2025-chartqapro,
+    title = "{C}hart{QAP}ro: A More Diverse and Challenging Benchmark for Chart Question Answering",
+    author = "Masry, Ahmed  and
+      Islam, Mohammed Saidul  and
+      Ahmed, Mahir  and
+      Bajaj, Aayush  and
+      Kabir, Firoz  and
+      Kartha, Aaryaman  and
+      Laskar, Md Tahmid Rahman  and
+      Rahman, Mizanur  and
+      Rahman, Shadikur  and
+      Shahmohammadi, Mehrad  and
+      Thakkar, Megh  and
+      Parvez, Md Rizwan  and
+      Hoque, Enamul  and
+      Joty, Shafiq",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.978/",
+    doi = "10.18653/v1/2025.findings-acl.978",
+    pages = "19123--19151"
 }
 ```
